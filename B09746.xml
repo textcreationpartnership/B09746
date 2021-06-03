@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the long expected auspicious birth of the Prince, June the 10th. MDCLXXXVIII. being Trinity Sunday.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09746</idno><idno type="EEBO-CITATION">80923388</idno>
+  <idno type="VID">191956</idno>
+  <idno type="EEBO-PROQUEST">2240869677</idno>
+  
+            <idno type="OCLC"> 80923388</idno>
+            <idno type="STC">Wing P2699</idno>
+            <idno type="STC">ESTC R181904</idno>
+            <idno type="OCLC">80923388</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191956)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the long expected auspicious birth of the Prince, June the 10th. MDCLXXXVIII. being Trinity Sunday.</title>
+               </titleStmt>
+               <extent>1 sheet ([1]) p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Mary Thompson at the entrance into Old-Spring-Garden ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>anno Dom.MDCLXXXVIII. [1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James, --  Prince of Wales, 1688-1766 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">English poetry --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:191956:1"/>
+            <head>A POEM On the Long Expected AUSPICIOUS BIRTH OF THE PRINCE, June the 10<seg rend="sup">th.</seg> MDCLXXXVIII. BEING TRINITY SUNDAY.</head>
+            <lg>
+               <l>A Prince of <hi>Wales!</hi> Where? Oh where? Bless your Eyes,</l>
+               <l>'Tis one of <hi>Englands</hi> Choisest <hi>Rarities.</hi>
+               </l>
+               <l>Reach me a <hi>Phoenix Quill,</hi> that I May Write,</l>
+               <l>Yea, put it on <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ecord,</hi> in <hi>Rubrick</hi> bright.</l>
+               <l>Some Winged <hi>Angel</hi> Write it in the Air,</l>
+               <l>That with Great <hi>Constantine</hi> we may <hi>Read</hi> it there:</l>
+               <l>And, <hi>In hoc signo vince,</hi> may agree</l>
+               <l>To <hi>JAMES</hi> the Second's Vigorous <hi>Monarchy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How came this <hi>Known</hi> before? Who gave the <hi>Sign?</hi>
+               </l>
+               <l>A <hi>Birth Foretold</hi> is something of <hi>Divine.</hi>
+               </l>
+               <l>
+                  <hi>Royalists</hi> strangely agreed in the same <hi>Note;</hi>
+               </l>
+               <l>A <hi>PRINCE,</hi> the <hi>Subject</hi> of Prophetick <hi>Vote.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Where is the good Lord <hi>Shaftsbury</hi> to be found?</l>
+               <l>That <hi>Politick</hi> MOLE works not still under ground.</l>
+               <l>Avant, foul <hi>Fiend!</hi> with thy <hi>Distinction;</hi>
+               </l>
+               <l>W'have now an Heir <hi>APPARENT</hi> to the <hi>Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Who's that who Hangs the Head? <hi>Fanatick</hi> Vile;</l>
+               <l>No <hi>Gentleman</hi> doth Frown, when Heaven doth Smile.</l>
+               <l>God <hi>Blesseth,</hi> and the Wretch doth <hi>Curse.</hi> Oh see!</l>
+               <l>The Ba<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eful Bent of <hi>Nonconformity.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Saint <hi>Paul</hi> expresly bids for <hi>Princes Pray;</hi>
+               </l>
+               <l>That snells too Rank of <hi>Liturgy,</hi> say they.</l>
+            </lg>
+            <lg>
+               <l>Dread Sir! the World Rejoyced at Thy <hi>Throne;</hi>
+               </l>
+               <l>Now Heav'n it self doth send to <hi>Greet</hi> Thy <hi>Crown.</hi>
+               </l>
+               <l>For True <hi>Devotion</hi> never Lives by Loss;</l>
+               <l>The <hi>Crown</hi> will <hi>Fix</hi> there, where they own the <hi>Cross.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Poor <hi>Miscreant!</hi> Why dost thou Labour thus,</l>
+               <l>Whisper the BIRTH Suppositious?</l>
+               <l>Maugre your <hi>Wagers, Shams,</hi> and Stories wild,</l>
+               <l>The CUSHION's <hi>Transubstantiate</hi> to a <hi>Child.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And thou Fair <hi>Off-Set,</hi> that I may Divine,</l>
+               <l>Assisted with Heavens <hi>Suffrage,</hi> mayst Thou Shine</l>
+               <l>To future <hi>Ages,</hi> whilst Thou dost Inherit</l>
+               <l>Thy Royal Sires <hi>Tres Grand</hi> Undaunted <hi>Spirit:</hi>
+               </l>
+               <l>To Advance this <hi>British Isle,</hi> that It may see</l>
+               <l>It owes Its Grandure to Saint <hi>George,</hi> and <hi>Thee.</hi>
+               </l>
+               <l>To Chequeth' Encroaching LYON, make him know</l>
+               <l>His Station is, as is his Country, <hi>Low.</hi>
+               </l>
+               <l>To make our <hi>English Ships</hi> in the Worlds Eyes,</l>
+               <l>Vessels of <hi>Fame,</hi> as well as <hi>Merchandise.</hi>
+               </l>
+               <l>That th' <hi>Scot</hi> may cease at last in Publick Pray'r,</l>
+               <l>Canting <hi>Extempore,</hi> to beat the <hi>Air.</hi>
+               </l>
+               <l>But for Religions Credit, He may come,</l>
+               <l>
+                  <hi>Ʋnite</hi> to <hi>England</hi> and to <hi>Christendom.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Less, we cannot suppose, the very Day</l>
+               <l>When Thou Salutedst us doth loudly say</l>
+               <l>
+                  <hi>Such Lessons.</hi> — The <hi>Eastern Sages</hi> Th' hast Out-done,</l>
+               <l>They came to Pay their <hi>Duties</hi> to the SON,</l>
+               <l>Thou com'st to Worship th' Undivided <hi>Three,</hi>
+               </l>
+               <l>The ever Bless'd Mysterious TRINITY.</l>
+            </lg>
+            <lg>
+               <l>And now most August <hi>Sovereign!</hi> Own Thy <hi>Son,</hi>
+               </l>
+               <l>Prepare Him <hi>Title</hi> and <hi>Dominion.</hi>
+               </l>
+               <l>The Loyal <hi>Britains</hi> are in haste we see,</l>
+               <l>To Pay this Infant <hi>Homage</hi> on their <hi>Knee,</hi>
+               </l>
+               <l>The very <hi>Mountains</hi> Dance in Jolly Mirth,</l>
+               <l>Transported with their <hi>Cousin Prince</hi> His Birth.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Irish Harp</hi> hath heard, and doth desire,</l>
+               <l>A gladsom Consort with the <hi>British Lyre.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Frolick <hi>Wav<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> are Mad, and Wanton All,</l>
+               <l>Fancying the <hi>Next</hi> will be their <hi>Admiral.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What says the Royal Mother? Let Her come</l>
+               <l>To Greet Her <hi>Fruit</hi> of Prayers, and Her Womb;</l>
+               <l>When in Her Blest <hi>Employ,</hi> She hath Ador'd</l>
+               <l>Th' Author of <hi>Fruitfulness,</hi> Her Gracious Lord,</l>
+               <l>She finds Her Innocent <hi>Diversion,</hi>
+               </l>
+               <l>With the same <hi>Lip</hi> to <hi>Bless,</hi> and <hi>Kiss</hi> Her <hi>Son.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh may It grow, and like the <hi>English</hi> Air</l>
+               <l>Perk up Its <hi>Head,</hi> and spread Its <hi>Root</hi> so Fair,</l>
+               <l>That henceforth <hi>Britains Crown,</hi> if Heav'n so please,</l>
+               <l>May'nt <hi>Straggle</hi> into Forreign <hi>Families.</hi>
+               </l>
+               <l>And crossing Natures First and Great <hi>Intent,</hi>
+               </l>
+               <l>Make us to be half <hi>Isle,</hi> half <hi>Continent.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Italy</hi> likes the <hi>English-Man,</hi> they say,</l>
+               <l>When thus <hi>Oblidg'd,</hi> let's Study to <hi>Repay;</hi>
+               </l>
+               <l>But this a <hi>Present</hi> is so near <hi>Immense,</hi>
+               </l>
+               <l>That <hi>Albion</hi> can never Recompense.</l>
+               <l>No, though She turns that <hi>All</hi> which Guards Her <hi>Shore,</hi>
+               </l>
+               <l>
+                  <hi>Rocks</hi> into <hi>Gems,</hi> and <hi>Quicksands</hi> into <hi>Ore.</hi>
+               </l>
+               <l>The <hi>Garden</hi> of the World <hi>Italy</hi> is,</l>
+               <l>It must be <hi>So,</hi> which sends such <hi>Fruit</hi> as <hi>This!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What do I further <hi>Strive?</hi> all <hi>Verse</hi> is Dry,</l>
+               <l>There is a Nobler, Juicyer <hi>Poetry!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Reach me a <hi>Flask</hi> from you pure <hi>Florence Vine:</hi>
+               </l>
+               <l>After such <hi>Fruit,</hi> 'tis fit we should have <hi>Wine,</hi>
+               </l>
+               <l>To Drink a <hi>Florid Health</hi> to the Great <hi>Sire,</hi>
+               </l>
+               <l>His Royal <hi>Consort,</hi> and Their Hopeful <hi>Heir!</hi>
+               </l>
+               <l>Drink with a <hi>Heart</hi> wherein the <hi>King</hi> may see,</l>
+               <l>If open'd, Writ <hi>Long Live His Maiesty.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Mary Thompson</hi> at the Entrance into <hi>Old-Spring-Garden</hi> near <hi>Charing-Cross,</hi> Anno Dom. MDCLXXXVIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
